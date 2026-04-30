@@ -1,3 +1,4 @@
+Só para as ideias não passarem batido
 
 Area para fazer comentários enquanto o jogo é desenvolvido .
 

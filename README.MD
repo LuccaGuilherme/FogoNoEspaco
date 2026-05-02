@@ -20,3 +20,7 @@ quero que o jogo tenha 5 fases, cada fase pra passar precisa matar pelo menos 5 
 apareça powerup na tela o qual pode aumentar seu tiro em dois e powerup de poder multiplicado .
 
 o contados de ondas deve aparecer na tela assim como o contador de inimigos
+
+movimentação dos inimigos precisam ser em ordem e depois parando na tela em formação, os inimigos devem atirar com um certo delay e depois começar a caírem na tela em direção a nave do jogador 
+
+a tela deve piscar uma cor de onde os inimigos virão 
